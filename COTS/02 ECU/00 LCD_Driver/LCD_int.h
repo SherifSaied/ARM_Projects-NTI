@@ -17,12 +17,19 @@
 
 
 
-void _delay_ms(u32 ticks); //delay function
-
-
 ES_t LCD_enuInit(void);
-ES_t LCD_enuDisplayChar(u8 copy_u8Data);
 ES_t LCD_enuSendCommand(u8 copy_u8Command);
+
+ES_t LCD_enuSendChar(u8 copy_u8Char);
+ES_t LCD_enuSendString(char * copy_u8Data);
+
+ES_t LCD_enuGoToCursor(u8 lineNumber, u8 Column);
+
+ES_t LCD_enuCreateCustomChar(u8 *pattern, u8 location);
+ES_t LCD_enuClear(void);
+
+void LCD_voidWriteNumber(u32 number);
+
 
 
 

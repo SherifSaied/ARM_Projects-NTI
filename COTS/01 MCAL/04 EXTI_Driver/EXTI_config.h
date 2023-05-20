@@ -12,6 +12,7 @@
 
 //#define EXTI_PORT            DIO_PORTA        /*you can choose DIO_PORTA or NONE */
 
+//#define SENSE_MODE     FALLING_EDGE
 
 
 

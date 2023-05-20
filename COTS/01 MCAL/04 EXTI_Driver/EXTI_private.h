@@ -1,11 +1,12 @@
-
+#ifndef		EXTI_PRIVATE_H
+#define		EXTI_PRIVATE_H
 
 
 
 
 /*vector table for IntNum for EXTI 16 line */
 
-#define EXTI_0     0
+#define EXTI0      0
 #define EXTI_1     1
 #define EXTI_2     2
 #define EXTI_3     3
@@ -62,6 +63,7 @@ typedef struct
 #define			EXTI				((EXTI_Type *)(EXTI_BASE_ADD))
 #define		EXTI_BASE_ADD			   0x40010400
 
+#endif
 
 
 
