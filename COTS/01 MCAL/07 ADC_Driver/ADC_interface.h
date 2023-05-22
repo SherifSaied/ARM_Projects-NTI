@@ -8,7 +8,7 @@
 #ifndef ADC_INTERFACE_H_
 #define ADC_INTERFACE_H_
 
-typedef enum
+/*typedef enum
 {
 	channel_0,
 	channel_1,
@@ -42,12 +42,13 @@ typedef enum
 	cycles_71_5,
 	cycles_239_5
 
-}sampleTime;
+}sampleTime;*/
 
 void ADC_voidInit(void);
+void ADC_voidStart(void);
+u16  ADC_Read(void);
 
-//void ADC_voidEnable(void);
-//void ADC_voidStart(void);
+
 
 
 
