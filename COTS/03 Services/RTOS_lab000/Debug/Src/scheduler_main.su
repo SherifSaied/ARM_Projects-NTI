@@ -1,0 +1,8 @@
+../Inc/delay.h:11:6:_delay_ms	24	static,ignoring_inline_asm
+../Src/scheduler_main.c:11:6:create_task	24	static
+../Src/scheduler_main.c:20:6:task_1	8	static
+../Src/scheduler_main.c:29:6:task_2	8	static
+../Src/scheduler_main.c:36:6:task_3	8	static
+../Src/scheduler_main.c:43:13:schedulerStart	16	static
+../Src/scheduler_main.c:64:6:start	8	static
+../Src/scheduler_main.c:73:5:main	8	static

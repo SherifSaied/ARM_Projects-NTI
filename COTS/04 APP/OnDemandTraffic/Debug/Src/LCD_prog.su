@@ -1,0 +1,8 @@
+../Src/LCD_prog.c:25:6:LCD_enuInit	16	static
+../Src/LCD_prog.c:83:6:LCD_enuSendCommand	40	static
+../Src/LCD_prog.c:133:6:LCD_enuSendChar	32	static
+../Src/LCD_prog.c:179:6:LCD_enuSendString	24	static
+../Src/LCD_prog.c:194:6:LCD_enuGoToCursor	16	static
+../Src/LCD_prog.c:208:6:LCD_enuCreateCustomChar	24	static
+../Src/LCD_prog.c:217:6:LCD_enuClear	8	static
+../Src/LCD_prog.c:224:6:LCD_voidWriteNumber	32	static

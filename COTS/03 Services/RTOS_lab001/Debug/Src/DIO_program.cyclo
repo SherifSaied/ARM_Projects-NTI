@@ -1,0 +1,6 @@
+DIO_program.c:12:6:DIO_voidSetPinDirection	13
+DIO_program.c:72:6:DIO_voidSetPinValue	13
+DIO_program.c:99:5:DIO_u8GetPinValue	7
+DIO_program.c:115:9:DIO_voidSethalfPortdir	12
+DIO_program.c:151:9:DIO_voidSethalfPortval	4
+DIO_program.c:164:9:DIO_voidSethalfPortvalV2	8

@@ -1,0 +1,2 @@
+../Src/SevSeg_program.c:12:6:SevSeg_voidInit	8	static
+../Src/SevSeg_program.c:48:6:SevSeg_voidStart	24	static

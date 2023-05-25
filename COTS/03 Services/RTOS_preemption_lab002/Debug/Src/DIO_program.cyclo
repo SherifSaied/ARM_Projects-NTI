@@ -1,0 +1,3 @@
+DIO_program.c:12:6:DIO_voidSetPinDirection	13
+DIO_program.c:72:6:DIO_voidSetPinValue	13
+DIO_program.c:99:5:DIO_u8GetPinValue	7

@@ -1,0 +1,4 @@
+../Src/LED.c:8:7:LED_init	16	static
+../Src/LED.c:14:7:LED_on	16	static
+../Src/LED.c:21:6:LED_off	16	static
+../Src/LED.c:27:7:LED_toggle	16	static

@@ -1,0 +1,8 @@
+"./Src/DIO_program.o"
+"./Src/RCC_program.o"
+"./Src/STK_program.o"
+"./Src/scheduler_main.o"
+"./Src/scheduler_program.o"
+"./Src/syscalls.o"
+"./Src/sysmem.o"
+"./Startup/startup_stm32f103c8tx.o"

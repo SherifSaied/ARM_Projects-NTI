@@ -1,0 +1,8 @@
+delay.h:11:6:_delay_ms	2
+scheduler_main.c:11:6:create_task	1
+scheduler_main.c:20:6:task_1	1
+scheduler_main.c:29:6:task_2	1
+scheduler_main.c:36:6:task_3	1
+scheduler_main.c:43:13:schedulerStart	3
+scheduler_main.c:64:6:start	1
+scheduler_main.c:73:5:main	1
